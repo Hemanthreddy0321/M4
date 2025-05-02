@@ -188,7 +188,8 @@ int main() {
 ## OUTPUT
 
 
-![image](https://github.com/user-attachments/assets/f251e44c-4bf3-4a88-8428-55c7043c464c)
+![image](https://github.com/user-attachments/assets/d90b37d8-681f-42c8-a201-0781f91d4dd6)
+
 
 
 
